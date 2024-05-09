@@ -6,4 +6,5 @@
 
 <div align="center">
   <img src="https://badgen.net/github/contributors/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Contributors">
+  <img src="https://badgen.net/badge/:subject/:status/:blue?icon[=github]" alt="Contributors">
 </div>
