@@ -10,7 +10,7 @@
   <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
 <div>
-  <h2>Acerca de mí</h2>
+  <h2>Acerca de mí📜</h2>
   <p>Me pasiona el desarrollo de software 💻 como el crear páginas web, desarrollar aplicaciones de escritorio 🛡️ y la creacción de interfaces de usuario atractivas.</p>
   <li>
 🔍Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones 🛠️  y trucos rápidos en los proyectos que desarrollaré.
@@ -24,7 +24,7 @@
   </li>
 </div>
 <div>
-    <h2>Habilidades</h2>
+    <h2>👨‍💻Habilidades</h2>
   <li>
     <strong>Lenguajes de programación:</strong> Java⚡.
   </li>
