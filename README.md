@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Luis Quishpe👋</h1>
+<h1 align="center">Hola, Soy Luis Quishpe👋.</h1>
 
 <div align="center">
   <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Portada.png?raw=true" >
