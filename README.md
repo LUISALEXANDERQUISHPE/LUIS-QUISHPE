@@ -49,24 +49,37 @@
   <table>
     <tr>
       <td>
-        <h3 align="center"><strong>LitHub</strong></h3>
-        <p>Es una aplicación de libreria en línea</p>
+          <div align="center">
+                <h3 align="center"><strong>LitHub</strong></h3>
+             <br>
+             <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/litInicio.png?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
+             <p>Es una aplicación de escritorio que simula una librería en línea. Permite a los usuarios registrarse y explorar libros disponibles para su lectura. Además, los autores pueden agregar sus propias                 obras a la plataforma.</p>
+          </div>
       </td>
       <td>
-        <h3 align="center"> <strong>Contabilidad</strong></h3>
-        <p>Es una aplicación para llevar contabilidad hacer ventas y compras dentro de una microtienda</p>
+          <div align="center">
+            <h3 align="center"> <strong>Contabilidad</strong></h3>
+                <br>
+            <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/productos.png?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
+            <p>Es una aplicación para llevar la contabilidad, hacer ventas y compras. Registro de distribuidores y una pequeña Kardex.</p>
+          </div>
       </td>
     </tr>
     <tr>
       <td>
-        <h3 align="center";><strong>JungleLetras</strong></h3>
-        <p>Es un juego que mejora el aprendizaje e identifiación de filas y columnas de manera divertidad.</p>
+        <div align="center">
+         <h3 align="center";><strong>JungleLetras</strong></h3>
+          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/jungle.png?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
+          <br>
+          <p>Es un juego que mejora el aprendizaje e identifiación de filas y columnas de manera divertidad todo esto mediante la busqueda de laplabras dentro de una sopa de letras.</p>  
+        </div>
       </td>
       <td>
-        <div aling center>
+        <div align="center">
           <h3 align="center"> <strong>Gestor de Calificaciones</strong></h3>
-          <p>Es una aplicación diseñada para el manejo de calificaciones por materia y por profesores.</p>
-          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Gestor.png?raw=true" width="300" height="300" title="Gestor de Calificaciones"; >
+          <br>
+          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Gestor.png?raw=true" width="320" height="300" title="Gestor de Calificaciones"; >
+           <p >Es una aplicación diseñada para el manejo de calificaciones por materia y por profesores asignados.</p>
         </div>
        </td>
     </tr>
